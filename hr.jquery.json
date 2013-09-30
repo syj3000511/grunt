@@ -1,0 +1,25 @@
+{
+  "name": "hr",
+  "title": "Hr",
+  "description": "elvis think it is good",
+  "version": "0.1.0",
+  "homepage": "https://github.com/syj3000511/test",
+  "author": {
+    "name": "elvis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syj3000511/test.git"
+  },
+  "bugs": "https://github.com/syj3000511/test/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/syj3000511/test/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
